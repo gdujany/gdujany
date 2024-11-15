@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a particle physicist working at CNRS-IN2P3 and now working on the (Belle II)[https://www.belle2.org/] experiment.
 <!--
 **gdujany/gdujany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
